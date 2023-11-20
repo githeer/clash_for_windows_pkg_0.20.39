@@ -11,3 +11,6 @@
 ## 下载
 
 [v0.20.39 releases](https://github.com/ysx88/clash_for_windows_pkg/releases)
+
+## 获取其他版本：
+https://archive.org/download/clash_for_windows_pkg
